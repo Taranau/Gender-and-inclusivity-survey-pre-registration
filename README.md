@@ -1,2 +1,2 @@
-# Gender-and-inclusivity-survey-pre-registration
+# Gender and Inclusivity Survey Pre-registration
 The pre-registration for an analysis of data on gender &amp; inclusivity in the mainland UK petplay scene
