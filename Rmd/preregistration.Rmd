@@ -1,0 +1,17 @@
+---
+title: Preregistration of An Analysis of Gender in Petplay (draft)
+author: Kanellos Lykos
+output: pdf_document
+bibliography: references.bib
+---
+
+```{r child = 'abstract.Rmd'}
+```
+
+```{r child = 'preface.Rmd'}
+```
+
+```{r child = 'methods.Rmd'}
+```
+
+# References
