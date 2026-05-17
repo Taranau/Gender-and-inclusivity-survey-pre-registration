@@ -1,0 +1,196 @@
+# Methods
+
+We aimed to gather data on experiences of gender and gender identity in online and physical spaces in the petplay community. We decided the most effective means to carry out this data gathering was through a survey, passed to the community through online platforms and word of mouth.
+
+## Survey Design
+
+In designing our survey, we decided to restrict our geographical scope to the mainland UK. There is a diversity of social, cultural and legal situations in even this restricted region, but much of the petplay scene on the island is interconnected, with an increasing interconnectivity as time passes. In contrast, the petplay scene in divided Ireland, or in Europe, tend to have weaker connections with the mainland UK scene, though these connections certainly still exist.
+
+Any subdivision of the island is inherently artificial. Communities exist on a geographic continuum, and the meaning of a 'local community' is dependent on individual perceptions, preferences and capabilities. Can a venue be reached by train, or would someone need a car? Is a venue or event accessible at all for those with mobility issues, sensory disabilities, dietary needs?
+
+Despite this, there was a need to loosely group communities to aid in talking about them. We picked the ITLS-1 regions defined by the Office for National Statistics [@ITLS-Regions], as an easily accessible and understandable but mostly arbitrary choice. Caution should be taken when comparing our data to other regional data using the ITLS structure, given the above mentioned complications about 'local community', and given the relative sparsity of petplay events in the UK^[For instance, while we use an ITLS region that covers Cymru, the only petplay event in this region is Caerdydd-based, meaning that events based outside Cymru will be far more accessible to many living in the region.].
+
+In addition, we deviated from the ITLS definitions in one regard, by splitting off the city of Greater Manchester as a distinct geographical region. This was a pragmatic choice, as Manchester has the highest density of petplay events in the UK by a large margin.
+
+We were selective in choosing our demographic data. While there are many interesting questions to be asked about subcommunities and demographic trends, the expected small number of responses means a high likelihood of type II errors^[That is, 'false positive' statistical results] if we overanalyse data.
+
+We chose to ask about community roles, both animal self-descriptors and social roles, with the dual hypotheses that under-represented creatures could more acutely feel the effects of discriminatory environments, and that taking a more prominent role in the community could increase the visibility of marginalising experiences. We also expect, based on anecdotal evidence, that women, trans* folk and nonbinary people in the community may be more likely to identify with creatures other than pups.
+
+We chose to ask about race and ethnicity, with the hypothesis that the racialisation of gender, and other aspects of intersectionality, could intensify the effects of discriminatory environments.
+
+We chose to ask about disability, focusing on accessibility impacts instead of diagnoses and labels, with the hypothesis that physically inaccessible environments may amplify feelings of exclusion.
+
+We chose to ask about economic disadvantage, with the dual hypotheses that gendered poverty may impact the accessibility of communities, and that a reduced access to self-expression may intensify feelings of discomfort.
+
+Beyond these demographic questions, the survey had three main sections. In the first, we asked some standard questions about folks' experiences at particular events or in particular communities. In the second, we asked specifically about the UK Pup and Handler Competition, which holds wider significance outside of the specific associated event. In the third, we asked about a range of experiences that relate aspects of petplay to gender. This section requires more scrutiny.
+
+Many of these questions were picked based on common experiences relayed to the authors. Multiple trans women expressed that they didn't feel as much pressure to perform a socially-acceptable femininity when engaging in petplay. Gear and accessories were repeatedly described as an aspect of gender expression. Many trans people described feeling uncomfortable with intimacy[@Trans-Intimacy], a feeling that was often lessened by the low barrier to intimacy available in petplay spaces^[A particularly striking anecdote relayed came from a man who described how he was largely uninterested in petplay, except that it was one of the few spaces where casual intimacy was both expected and encouraged.]. Our related hypotheses aim to examine these anecdotes, and see if they translate into broader experiences.
+
+## Advertisement
+
+In deciding how to advertise our survey, we curated a list of groups to advertise with; see the addendum for details.
+
+Of these groups, some had pre-established ways of posting surveys or other advertisements, which we used where possible. We otherwise contacted group admins and requested permission to share our survey. The overwhelming response from group admins was positive and enthusiastic. Some admins discussed particular details with us, and suggested ideas or improvements. Multiple admins reached out to offer pre-emptive permission to post after seeing our survey in other groups, and suggested other venues in which to share. While one group decided not to allow our survey, this was the result of a productive and thoughtful conversation, and was primarily rooted in reasonable privacy concerns.
+
+As a result of this first step of the process, we were made aware of a further two previously unknown telegram groups who were willing to allow our survey, and where it was subsequently shared.
+
+In addition, the survey was shared through word of mouth. A number of figures in the community kindly shared our survey on social media, or passed it to friends. Participants were encouraged to share with others. 
+
+To ensure privacy, and avoid any potential for identification of individuals, we chose not to record where participants encountered our survey.
+
+## Planned Analysis
+
+Detailed quantitative analysis often straddles the worlds of opaque technical details and misleading, decontextualised conclusions. Often, even academic researchers who use quantitative techniques don't fully understand the limitations or motivations for their methods. Since this work is aimed at the general petplay community, we want to properly justify our analysis in a way that is accessible to those without a technical background.
+
+In addition, to reduce unconcious bias and prevent problematic exploratory analysis [@P-Hacking], it is important to plan analyses before looking at any data. The following section lays out, thoroughly, the analysis we plan to undertake.
+
+### Demographic data
+
+Firstly, we plan to lay out our demographic data, and compare this to other community demographic surveys. There is only a small amount of existing research on petplay, but the evidence points to a community quite distinct from the wider public. For instance, about 1 in 2 pups display diagnostically significant autistic traits, compared to around 1 in 44 members of the wider public [@Autspec-Pupplay]. Pup play also tends to be disproportionately male, with many studies finding around 60-80% of participants are men - see, e.g., [@Petplay-Wignall-Survey; @BARK-Against-Thesis].
+
+There are significant obstacles to a straightforward comparison of demographic data. Much existing research is conducted in an english-language medium, but takes place online with an international audience, which in practice means that respondents are largely North American. In addition, much of the academic research is principally interested in pup play, a narrower focus than the wider petplay community. This narrower focus isn't dismissable: trans people and women are significantly more likely to engage with other forms of petplay, which is particularly relevant for our purposes.
+
+Despite this, we intend to perform a critical demographic comparison, focused on three main sources of data: the 2021 UK Census [@UK-Census]; Wignall et. al.'s pup play survey [@Petplay-Wignall-Survey]; and ScruffPup's BARK Against Thesis [@BARK-Against-Thesis]. We also intend to explore access to other, more targeted data. For instance, some of the large UK petplay conventions conduct end-of-convention feedback surveys including demographic data, and organisers of these events may be willing to share limited and specific statistics that aren't published publicly.
+
+This comparison will be primarily qualitative; limitations on available data mean that formal comparisons are likely to be misleading.
+
+We also intend to specifically analyse demographic differences in responses from trans* and nonbinary people and from women when compared to other respondents. We have the following hypotheses about our demographic data that we will answer with simple correlation tests:
+
+- Trans*, nonbinary and women respondents are more likely to be economically disadvantaged.
+- Trans*, nonbinary and women respondents are more likely to identify with roles other than 'pup'.
+
+### Events and Communities
+
+The bulk of our analysis will look at specific events and communities. For the dual purposes of protecting individual privacy and reducing noise in our results, we will exclude communities with low numbers (one or two) of respondents. This is likely to affect smaller communities or those that use alternative organising platforms, and this may be an interesting topic for future, more narrowly targeted research.
+
+We asked participants to agree or disagree^[Note that while some of these questions ask about objective facts (e.g. "there are gender-neutral toilets at all events"), we are interested in participants' subjective perceptions of these facts. It is often informative to ask about the visibility and perception of inclusivity measures.] with a core list of 12 statements about each community, with 7 additional statements about corresponding events (marked with an asterisk). These can be grouped into five categories.
+
+Three statements talked about trans* and nonbinary figures in the community:
+
+- "There are trans* or non-binary people in the community"
+- "Trans* or non-binary people regularly participate in the community"
+- "There are trans* and nonbinary community leaders"
+
+Four statements talked about policy:
+
+- "The event was clear on who could attend" (*)
+- "The event was clear on their bathroom policy" (*)
+- "I was not excluded from this community based on gender"
+- "I was not excluded from this community based on identity"
+
+Four statements talked about dealing with transphobia:
+
+- "The contact point for problems is clear" (*)
+- "The group rules protect trans* and nonbinary people"
+- "The group rules are enforced consistently and quickly"
+- "Transphobes and transphobic content are removed"
+
+Four statements talked about event and venue inclusivity:
+
+- "Event security were respectful and kind" (*)
+- "The event and venue staff support trans rights" (*)
+- "There are gender-neutral toilets at some events" (*)
+- "There are gender-neutral toilets at all events" (*)
+
+Four statements talked about community support:
+
+- "I feel safe in this community"
+- "I feel welcomed in this community"
+- "The community is clear on support for trans rights"
+- "The community leaders listen to feedback from trans* and nonbinary people"
+
+We first intend to use these statements to present some basic event-dependent information. This will include proportions of respondents that felt safe and welcome at events and how this changed with demographics. 
+
+We we will also quantitatively study some general questions:
+
+- Hypothesis: Trans* and nonbinary people and women are less likely to feel safe or welcomed in petplay communities.
+- Hypothesis: Trans* and nonbinary people and women are more likely to be excluded from communities.
+- Hypothesis: Other axes of discrimination contribute to feeling unsafe, unwelcome or ignored.
+
+In addition, we will use the question categories above to generate scores for each community on five measures: trans* and nonbinary participation; policy; transphobia countermeasures; event inclusivity; and community support. We will present these scores with a qualitative analysis. We will also test some correlations between measures, in particular how closely each of the first four categories correlates with perceptions of community support, in order to identify which improvements are most effective at creating feelings of welcome and safety.
+
+### Gendered experiences
+
+We asked a number of questions about gendered experiences in petplay, with the intent to explore the ways in which petplay is linked with or accentuates gender affirmation (see also [@Puppygirls]). Participants were asked to rank, on a scale of 1-5, how strongly they agreed with various statements.
+
+Five statements were about gender affirmation and expression:
+
+- "I feel more comfortable in my gender when being treated as a pet or animal"
+- "Wearing pup hoods, ear headbands, paws or other petplay gear makes me more comfortable in my gender"
+- "Being referred to by my 'persona' name makes me more comfortable in my gender"
+- "I feel more comfortable in my gender when handling a pet or animal"
+- "Accessorising or picking my gear helps me express my gender identity"
+
+Two statements wre about gendering in petplay:
+
+- "I have been misgendered as a result of petplay (e.g. called 'good girl/boy')"
+- "I use gender-neutral terms for my petplay (e.g. 'naughty wolf')"
+
+Three statements were about self-confidence and intimacy:
+
+- "I feel more outgoing when being treated as a pet or animal"
+- "I am more comfortable with photos and videos of myself in which I'm wearing a pup hood, ear headband, paws or other petplay gear"
+- "I am more comfortable with intimacy during petplay scenes"
+
+In addition, participants were invited to provide additional information about their experiences of gender and petplay.
+
+We intend to analyse if, and to what extent, these gendered experiences with petplay are more common for trans*, nonbinary and women petplayers; to what extent intimacy and self-confidence are influenced by animal roleplay; whether these questions are influenced by participants' role in petplay, i.e. animal versus handler; and the role of gender-neutral kink terms in gendered experiences with petplay.
+
+### Pup and Handler Competition
+
+The UK Pup and Handler Competition (PaHC) exists within the longstanding tradition of kink titleholder competitions that originates in the Leather community[@Titleholders].
+
+Titleholder competitions are often attached to positive goals of community building, inclusivity, and promoting diversity, and PaHC is no exception to this[@Pup-and-Handler-Competition].
+
+Despite this, titleholder competitions don't always succeed in these goals of inclusivity (see, e.g., [@Racism-In-Title-Competitions]). In conversations with past and present titleholders, there were differing attitudes towards the importance of promoting inclusion for trans*, nonbinary and women petplayers. We are interested how inclusive PaHC is perceived to be by the wider community.
+
+We asked participants questions about the competition, election process, and titleholders. The first two questions of this section asked about the election process:
+
+- "If you have voted in the competition, did you feel there was adequate trans* or nonbinary representation among the candidate?"
+- "If you have considered running for a title, did you feel your gender identity affected your decision, ability to run, or chances of winning?"
+
+The next three questions were multiple choice, asked about the actions and role of both titleholders and competition organisers:
+
+- "What responsibilities, if any, do you think the competition organisers and titleholders hold towards the trans* and nonbinary community?"
+- "What responsibilities, if any, do you think the competition organisers and titleholders hold towards women in the community?"
+- "Do you think the competition organisers and titleholders, past or present, have [upheld these responsibilities]?"
+
+We intend to analyse differences in responses between cisgender folks, trans* participants and nonbinary participants; and between individuals of different genders.
+
+## Limitations
+
+Inherent to our survey design and advertisement methods are a number of limitations. 
+
+To start, by sampling from existing community spaces, we fail to include folks who have self-selected out of the community, including for reasons related to gender and discrimination. Folks who remain in a community are more likely to have had positive experiences with the community, so our data may have blind spots as a result of survivorship bias. Broad community groups, like the Trans Pups & Pets telegram group, may help correct this bias somewhat, but themselves are not necessarily representative.
+
+There is also a broader limitation stemming this choice: UK petplay events are heavily dominated by, and oriented towards, pup players, who will be vastly overrepresented in our data. Anecdotally, trans* folk and women seem to be overrepresented in kittenplay, for instance, so the undersampling of this group may make our results unrepresentative of the broader group of petplayers.
+
+Many petplayers choose to engage exclusively in private play, or to play at broader kink events^[E.g. rubber nights, the London Alternative Market, Birmingham Bizzare Bazaar.], so sampling event-focused communities may underrepresent these groups.
+
+Finally, while the UK has a large and often interconnected Telegram community, there are also orthogonal networks, including on Fetlife, Reddit and Bluesky, where our survey had limited penetration. We expect a majority of respondents to be Telegram users, which will shape the data we gather.
+
+When analysing our data, we intend to compare against previous community surveys and wider statistics, to identify particular areas of deficiency in our data.
+
+# Addendum: Selected groups
+
+One of the core considerations when studying the UK petplay scene is its fragmentary and poorly-documented nature. Many petplay communities have faced unwanted scrutiny, prejudicial behaviour from the public or media, or have special considerations for the privacy of vulnerable members. Many petplay events have limited public documentation, even on their existence. Groups may be invite-only, advertise only in other petplay communities, or may even be advertised exlcusively via word-of-mouth. 
+
+Various attempts have been made to document the extent of the community, either in the UK or more broadly (see, e.g., [@Calendar; @Puppy-Pride; @EU-Petplay; @Pup-info-Map]). Some of these projects are no longer maintained^[The petplay community, as with many communities, is volunteer-run, meaning that projects, and indeed events, appear and disappear as volunteers do. Some of these projects have built sustainable scaffolding to support them, but many projects that seem sustainable can nevertheless decline. They remain valuable resources, even if they are impermenant.]; all projects known to us are incomplete, and this fact isn't surprising^[These projects generally rely on one of two approaches: either events self-advertising on a platform, or volunteers collating data manually. Since events often have intentionally low advertising profile, petplay advertising platforms generally include only a subset, often those most linked to the platform host or smaller events with weak word-of-mouth links to the community. Volunteer data gathering is a very difficult endeavour, and rarely sustainable.]. Nevertheless, the most complete project for UK-based events known to us is the UK Petplay Calendar [@Calendar], and we used this as a starting point.
+
+We initially drafted a list of events and digital spaces focused on petplay. Platforms on this list included Telegram (fifty groups), Fetlife (six groups), Whatsapp (three groups), Discord (four groups), and five other groups with online presence. These groups primarily, though not exclusively, corresponded with particular in-person events (fifty-five events). Some groups were represented on multiple platforms, and such cross-platform groups were treated as single entities for the purposes of data gathering.
+
+With only one exception, we solicited opinions from respondents on all fifty-five known petplay events and any known public UK-regional petplay groups, such as the 'London Pups' and 'Trans Pups & Pets UK' Telegram groups. We did not include semi-public or private communities, even when these communities were large or well-known. We did not include one event with a well-documented history of virulent transphobia.
+
+Of the fifty Telegram groups, eleven were excluded from advertising for inactivity. One group declined to allow our survey due to privacy concerns for members.
+
+The six Fetlife groups were excluded from advertising due to sampling difficulties inherent to the platform. 
+
+Of the three Whatsapp groups, one group was excluded from advertising due to a well-documented history of virulent transphobia. One group was excluded for inactivity. 
+
+Of the four discord groups, three were alternative platforms for major telegram groups. The remaining group was excluded from advertising for inactivity.
+
+Four of the five groups with other online presence were excluded from advertising for lack of means to contact members.
+
+Of the fifty-five events represented by our original list of groups, ten were no longer running at the time of our survey. Most of these events were still included in the survey, in order to capture historic data and broader community trends, but were not contacted. One active event was not contactable directly but had large overlap with other contacted groups. One active event was not contactable. Four had unclear activity status, but were uncontactable.
+
+A further three included events have stopped running between the closure of the survey and the present day, while a number of new events have since started.
